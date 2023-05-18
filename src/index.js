@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// this file doesnt exist yet but will be created soon.
-// its only to remove the error with ReactDOM.render
 import App from './App';
+import './index.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
